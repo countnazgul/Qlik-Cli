@@ -6,9 +6,9 @@
 
 ```json
 {
-    dev: "my-long-token-for-accessing-DEV",
-    test: "my-long-token-for-accessing-TEST",
-    prod: "my-long-token-for-accessing-PROD",
+    "dev": "my-long-token-for-accessing-DEV",
+    "test": "my-long-token-for-accessing-TEST",
+    "prod": "my-long-token-for-accessing-PROD",
     ...
 }
 ```
